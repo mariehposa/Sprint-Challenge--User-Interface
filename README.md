@@ -38,7 +38,8 @@ Semantic HTML is HTML that add meaning to the web page rather than just presenta
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-```display: block;``` makes contents to be in column and ```display: inline;```makes content to be in row.
+```display: block;``` makes contents to be in column and takes up all the possible space.
+```display: inline;```makes content to be in row and gives space in between the content.
 
 3. What are the 4 areas of the box model?
 
